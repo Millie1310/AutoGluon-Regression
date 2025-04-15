@@ -6,6 +6,10 @@ Welcome! This project explores health and activity data through the power of [Au
 - **Regression**: Predict daily calories burned based on activity metrics.
 - **Classification**: Categorize days as **Weekdays** or **Weekends**, analyzing activity patterns.
 
+
+## 🔗 My EDA Report
+
+Explore detailed insights and visualizations in my [Y-data profile report](https://millie1310.github.io/EDA_reports/ydata/MySteps_report.html).
 ---
 
 ## 🏗️ Repository Structure
