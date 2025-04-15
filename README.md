@@ -1,1 +1,1 @@
-# AutoGluon-Regression
+# AutoGluon-Regression-Classification
